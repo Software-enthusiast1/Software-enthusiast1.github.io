@@ -1,5 +1,5 @@
 <!--- The website is at Software-enthusiast1.github.io -->
-this is the first website I have made, you can visit it at `software-enthusiast1.github.io`
+This is the first website I have made, you can visit it at `software-enthusiast1.github.io`
 
 I am still learning how to use this platform, so bear with me.
 
